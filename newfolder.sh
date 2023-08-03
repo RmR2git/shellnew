@@ -1,2 +1,2 @@
 #Creation of folders in workspace
-zip demos.zip Demo Demo1
+zip demos.zip Demo
