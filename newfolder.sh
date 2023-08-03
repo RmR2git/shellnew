@@ -1,7 +1,7 @@
 #Creation of folders in workspace
-mkdir ramu
-cd ramu
+mkdir Demo
+cd Demo
 touch newfolder
-mkdir ramu1
-cd ramu1
+mkdir Demo1
+cd Demo1
 touch newfolder1
