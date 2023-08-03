@@ -1,7 +1,7 @@
 #Creation of folders in workspace
-mkdir ram
-cd ram
-vi newfolder
-mkdir ram1
-cd ram1
-vi newfolder
+mkdir ramu
+cd ramu
+touch newfolder
+mkdir ramu1
+cd ramu1
+touch newfolder1
